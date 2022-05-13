@@ -1,0 +1,17 @@
+
+
+.centrado {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.fondoCard {
+    border-radius: 15px;
+background: linear-gradient(145deg, #23282c, #1e2125);
+box-shadow:  6px 6px 12px #121417,
+             -6px -6px 12px #30363b;
+}
